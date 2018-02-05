@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-weburl</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="10" cy="10" r="10"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.600000024">
+        <g id="Large-Devices-(-≥-1200px-)" transform="translate(-210.000000, -800.000000)">
+            <g id="Group-23" transform="translate(210.000000, 764.000000)">
+                <g id="Group-10" transform="translate(0.000000, 34.000000)">
+                    <g id="Group-4">
+                        <g id="Group-17" transform="translate(0.000000, 2.000000)">
+                            <circle id="Oval-3" stroke="#7F808E" stroke-width="2" cx="10" cy="10" r="9"></circle>
+                            <g id="Group-15" transform="translate(5.000000, 0.000000)" stroke="#7F808E" stroke-width="2">
+                                <path d="M3.5,1.62403304 L3.5,18.54736 C2.1152692,17.2947814 1,13.6345212 1,10 C1,6.8286956 2.2464942,3.08196684 3.5,1.62403303 L3.5,1.62403304 Z" id="Oval-3"></path>
+                                <path d="M8.5,1.62403304 L8.5,18.54736 C7.1152692,17.2947814 6,13.6345212 6,10 C6,6.8286956 7.2464942,3.08196684 8.5,1.62403303 L8.5,1.62403304 Z" id="Oval-3" transform="translate(7.250000, 10.000000) scale(-1, 1) translate(-7.250000, -10.000000) "></path>
+                            </g>
+                            <g id="Group-16">
+                                <g id="Group-15" transform="translate(10.000000, 10.000000) rotate(90.000000) translate(-10.000000, -10.000000) ">
+                                    <g id="Oval-3">
+                                        <mask id="mask-2" fill="white">
+                                            <use xlink:href="#path-1"></use>
+                                        </mask>
+                                        <g id="Mask"></g>
+                                        <path d="M15.5,1.62403304 L15.5,18.54736 C14.1152692,17.2947814 13,13.6345212 13,10 C13,6.8286956 14.2464942,3.08196684 15.5,1.62403303 L15.5,1.62403304 Z" stroke="#7F808E" stroke-width="2" mask="url(#mask-2)" transform="translate(14.250000, 10.000000) scale(1, -1) translate(-14.250000, -10.000000) "></path>
+                                        <path d="M7.5,1.62403304 L7.5,18.54736 C6.1152692,17.2947814 5,13.6345212 5,10 C5,6.8286956 6.2464942,3.08196684 7.5,1.62403303 L7.5,1.62403304 Z" stroke="#7F808E" stroke-width="2" mask="url(#mask-2)" transform="translate(6.250000, 10.000000) scale(-1, -1) translate(-6.250000, -10.000000) "></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
